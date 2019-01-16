@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll 搭建静态博客"
-date:   2015-02-15 22:14:54
+date:   2016-01-16 17:03
 categories: jekyll
 tags: jekyll RubyGems
 ---
@@ -16,7 +16,7 @@ tags: jekyll RubyGems
 
 
 ## 搭建过程
-
+<转>
 在jekyll的官网上 [http://jekyllrb.com/](http://jekyllrb.com/) 其实已经说得比较明白了，我在这里还是简单的说一下吧。我用的是Windows系统。    
 主要环节有：安装Ruby，安装RubyGems，安装jekyll，安装代码高亮插件，安装node.js
 
