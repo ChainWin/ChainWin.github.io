@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "搭建Debian系统及配置"
-date:   2016-01-19 15:03
+date:   2019-01-19 15:03
 categories: Linux
 tags: Linux Debian
 ---
